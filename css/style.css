@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-vector/horse-saddle-hanging-wooden-ranch-fence-scene_107791-11215.jpg?w=1380&t=st=1663906544~exp=1663907144~hmac=df6b47215f884b94d57e69e48d9e03cf7a624c7616e30a0ea3e28c00a5f21655);
+    background-size:100%;
+    margin: 200px;
+
+}
+
+button{
+
+    padding: 40px 90px;
+    margin: 30px 30px;
+    font-size: 20px;
+    background: #67177298;
+    color:  #faa0da;
+    border-radius: 20px;
+    border: 1px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+button:hover{
+    background:  #00000098;
+    padding: 30px auto;
+    border-radius: 30px;
+    color:  #6cb1ee;
+}
+
+h1{
+    color:  #00000098;
+    font-size: 50px;
+    background-size: cover;
+}
+
+h2{
+   
+    color:#00000098;
+}
+h1{color:#00000098;
+    font-size:45px ;
+    background-clip: initial;
+    background-size: contain;
+
+} 
+h1:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+}
+h2:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+
+}
